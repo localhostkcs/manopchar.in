@@ -75,10 +75,6 @@ Engineered for precision, performance, and minimalism.
 - **Styling:** Minimal CSS / Tailwind CSS
 - **Version Control:** Git + GitHub
 - **CI/CD:** GitHub Actions (Automated SSH Deployment)
-- **Production Server:** Ubuntu VPS
-- **Control Panel:** Hestia
-- **Web Server:** Nginx
-- **SSL:** Let’s Encrypt
 
 ---
 
